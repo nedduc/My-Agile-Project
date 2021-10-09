@@ -20,3 +20,9 @@ __Acceptance Criteria__
 * Acceptance criteria 1:
 * Acceptance criteria 2:
 * Acceptance criteria 3:
+  
+__Tasks__
+  
+- [ ] (for unchecked checkbox)
+- [x] (for checked checkbox)
+
