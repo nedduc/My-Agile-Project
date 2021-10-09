@@ -23,6 +23,7 @@ __Acceptance Criteria__
   
 __Tasks__
   
-- [ ] (for unchecked checkbox)
-- [x] (for checked checkbox)
+- [ ] Task 1
+- [x] Task 2
+- [ ] Task 3
 
