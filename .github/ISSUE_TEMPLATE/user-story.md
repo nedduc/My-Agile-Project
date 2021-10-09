@@ -17,6 +17,6 @@ I can **goal/desire**
   
 __Acceptance Criteria__
   
-* Acceotance criteria 1:
-* Acceotance criteria 2:
-* Acceotance criteria 3:
+* Acceptance criteria 1:
+* Acceptance criteria 2:
+* Acceptance criteria 3:
