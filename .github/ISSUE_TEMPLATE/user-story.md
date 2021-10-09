@@ -15,13 +15,13 @@ In order to **received benefit**
 as a **role** 
 I can **goal/desire**
   
-__Acceptance Criteria__
+#Acceptance Criteria
   
 * Acceptance criteria 1:
 * Acceptance criteria 2:
 * Acceptance criteria 3:
   
-__Tasks__
+#Tasks
   
 - [ ] Task 1
 - [x] Task 2
